@@ -42,7 +42,7 @@ LeanPixel 不会上传、传输或备份你的任何图片。所有压缩都在�
 
 ### 六、变更与联系方式
 
-政策变更会随应用更新发布在本文件。问题请联系：`support@leanpixel.app`（示例地址，发布前请替换为真实邮箱）。
+政策变更会随应用更新发布在本文件。问题请联系：`liufeng_knight@163.com`。
 
 ---
 
@@ -86,4 +86,4 @@ This app is not directed at children and collects no personal information.
 
 ### Changes and contact
 
-Policy changes ship with application updates. Contact: `support@leanpixel.app` (placeholder, replace before publishing).
+Policy changes ship with application updates. Contact: `liufeng_knight@163.com`.
