@@ -1,0 +1,3 @@
+markdown: kramdown
+jekyll-relative-links: enabled
+collections: true
